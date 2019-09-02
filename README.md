@@ -16,6 +16,14 @@ Verify that there is an updated ruby version.
 
 [Basic Application](https://www.seleniumeasy.com/test/basic-first-form-demo.html)
 
+## Run test
+
+To run the tests, execute the following command:
+
+```bash
+cucumber
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
