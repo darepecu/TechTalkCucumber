@@ -12,6 +12,10 @@ brew install selenium-server-standalone
 
 Verify that there is an updated ruby version.
 
+## AUT - Demo
+
+[Basic Application](https://www.seleniumeasy.com/test/basic-first-form-demo.html)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
